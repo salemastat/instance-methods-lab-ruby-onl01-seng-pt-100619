@@ -12,6 +12,3 @@ def walk
   end 
 end 
 
-Person = Person.new 
-Person = talk 
-Person = walk
