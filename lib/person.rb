@@ -16,4 +16,4 @@ end
 
 Person = Person.new 
 Person = talk 
-Person = talk
+Person = walk
